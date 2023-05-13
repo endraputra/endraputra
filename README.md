@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endraputra
-- 👀 I’m interested in backend web development
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in backend web development and data science
+- 🌱 I’m currently enrolled a data science course from 365datascience in udemy
 - 💞️ I’m looking to collaborate on backend web development project
 - 📫 How to reach me in instagram @__endra
 
